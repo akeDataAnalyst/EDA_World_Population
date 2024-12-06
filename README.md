@@ -17,7 +17,7 @@ Exploratory Data Analysis is the intial phase of data analysis where patterns, r
   * group data by categories to analyze trends
 
 -  Correlation Analysis
-  * to find correlations between numeric columns which helps in understanding relationships
+   * to find correlations between numeric columns which helps in understanding relationships
 
-![](eda5.PNG)
-![](eda7.PNG)
+![Heat map](eda5.PNG)
+![Plot](eda7.PNG)
