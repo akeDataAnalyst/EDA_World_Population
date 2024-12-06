@@ -9,15 +9,18 @@ Exploratory Data Analysis is the intial phase of data analysis where patterns, r
 - Loading data
   use `pd.read.csv()`
 
+  ![](eda3.PNG)
+
 - Data cleaning
 
 - Data visualization
+
+  ![Plot](eda7.PNG)
   
 - Grouping data
   * group data by categories to analyze trends
 
 -  Correlation Analysis
    * to find correlations between numeric columns which helps in understanding relationships
-
+![](eda4.PNG)
 ![Heat map](eda5.PNG)
-![Plot](eda7.PNG)
